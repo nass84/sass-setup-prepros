@@ -1,11 +1,13 @@
-#Set Up
+# Set Up
 
 - Download Prepros https://prepros.io/downloads
 
 - Set Up Project 
 
--Index.html 
--styles.scss
+Create: 
+
+- Index.html 
+- styles.scss
 
 - Drag Project folder to Prepros
 
@@ -53,4 +55,4 @@ This could appear in css file as css
   Color: pink;
 }
 ```
-
+You are now ready to begin! 
