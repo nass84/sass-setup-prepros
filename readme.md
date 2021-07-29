@@ -1,13 +1,15 @@
-# Set Up
+# Set Up Sass with Prepros
 
 - Download Prepros https://prepros.io/downloads
 
 - Set Up Project 
 
-Create: 
+Create in VS Code: 
 
 - Index.html 
 - styles.scss
+
+Open up Prepros 
 
 - Drag Project folder to Prepros
 
@@ -18,7 +20,11 @@ Notification saying successful should pop up.
 
 - In VS code a new file should appear called styles.css
 
-- Link this to html file
+- Link css file in html file
+
+```
+    <link rel="stylesheet" href="styles.css" />
+```
 
 - Add practice code to scss file 
 
@@ -33,13 +39,6 @@ Notification saying successful should pop up.
 }
 } 
 ```
-
-
-
-
-
-
-
 
 This could appear in css file as css
 
